@@ -1,7 +1,3 @@
-Ah got it! Here's a cleaner, professional-style **README.md** without code, focusing on structure, explanation, and usage:
-
----
-
 # ✈️ Flight Landing Time Predictor
 
 A simple and interactive web application that predicts the estimated landing time of a flight based on various inputs such as departure time, distance, departure delay, and taxi times. The prediction is powered by a machine learning model trained using Linear Regression.
